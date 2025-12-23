@@ -34,14 +34,6 @@ Data Processing: NumPy
 
 Model Storage: Pickle
 
-📂 Project Structure
-deployment streamlit/
-│
-├── pred_diabetes.py        # Script to test model prediction
-├── web_app.py              # Streamlit web application
-├── trained_model.sav       # Trained ML model
-├── requirements.txt        # Project dependencies
-└── README.md               # Project documentation
 
 📊 Input Parameters
 
